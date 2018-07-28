@@ -17,6 +17,7 @@ var chocolateBars = [
     return [...array, element];
 }
 
+<<<<<<< HEAD
   function destructivelyAddElementToEndOfArray(array, element){
     array.push(element);
     return array;
@@ -62,3 +63,9 @@ var chocolateBars = [
   
   
   
+=======
+  function destructivelyAddElementToEndofArray(array, element){
+    array.push(element);
+    return array;
+  }
+>>>>>>> b752b8fbea0513e399b246a51ec46a08090addd5
